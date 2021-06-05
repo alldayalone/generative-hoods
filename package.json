@@ -1,13 +1,13 @@
 {
   "name": "generative-art-neighbourhoods",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Generative art using Cyclic Cellular Automata",
+  "main": "src/index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node src/index.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Pavel Kalugin",
+  "license": "MIT",
   "dependencies": {
     "canvas": "^2.8.0"
   }
