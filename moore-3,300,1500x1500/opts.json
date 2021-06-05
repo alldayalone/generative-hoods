@@ -1,0 +1,45 @@
+{
+  "DATE": "2021-06-05T14-26-11.609Z",
+  "HEIGHT": 1500,
+  "WIDTH": 1500,
+  "STATES_NUMBER": 5,
+  "ITERATIONS_NUMBER": 300,
+  "THRESHOLD": 10,
+  "DEPTH": 3,
+  "HOOD": "moore",
+  "SAVE_INTERMEDIATE_IMAGES": true,
+  "ITERATIONS_PER_IMAGE": 30,
+  "QUITE": false,
+  "PALLETE": [
+    [
+      254,
+      67,
+      101,
+      255
+    ],
+    [
+      252,
+      157,
+      154,
+      255
+    ],
+    [
+      249,
+      205,
+      173,
+      255
+    ],
+    [
+      200,
+      200,
+      169,
+      255
+    ],
+    [
+      131,
+      175,
+      155,
+      255
+    ]
+  ]
+}

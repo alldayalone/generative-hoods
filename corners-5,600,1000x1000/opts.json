@@ -1,0 +1,19 @@
+{
+  "DATE": "2021-06-05T15-41-22.273Z",
+  "HEIGHT": 1000,
+  "WIDTH": 1000,
+  "STATES_NUMBER": 4,
+  "ITERATIONS_NUMBER": 600,
+  "THRESHOLD": 20,
+  "DEPTH": 5,
+  "HOOD": "corners",
+  "SAVE_INTERMEDIATE_IMAGES": true,
+  "ITERATIONS_PER_IMAGE": 30,
+  "QUITE": false,
+  "PALLETE": [
+    "#325288",
+    "#f4eee8",
+    "#f5cebe",
+    "#114e60"
+  ]
+}
