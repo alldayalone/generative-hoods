@@ -8,9 +8,7 @@ $ npm install
 $ npm start
 ```
 # Gallery
-<div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 10px">
-    <img src="examples/moore_remote-4,500,1500x1500/final_image.png" alt="drawing" />
-    <img src="examples/corners-5,600,1000x1000\final_image.png" alt="drawing" />
-    <img src="examples/moore-3,300,1500x1500/final_image.png" alt="drawing" />
-    <img src="examples/blade-3,600,1500x1500\final_image.png" alt="drawing" />
-</div>
+| | |
+|:-------------------------:|:-------------------------:|
+| <img src="examples/moore_remote-4,500,1500x1500/final_image.png" alt="drawing" /> Moore remote | <img src="examples/corners-5,600,1000x1000\final_image.png" alt="drawing" width="1500" /> Corners |
+| <img src="examples/moore-3,300,1500x1500/final_image.png" alt="drawing" /> Moore | <img src="examples/blade-3,600,1500x1500\final_image.png" alt="drawing" /> Blades |
